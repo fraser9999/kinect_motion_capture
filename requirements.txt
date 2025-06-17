@@ -1,0 +1,5 @@
+numpy==1.23.5
+scipy==1.10.1
+opencv-python==4.10.084
+openni==2.3.0
+mathplotlib==3.7.2
