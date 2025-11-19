@@ -114,10 +114,13 @@ python BVH_Writer.py
 ```
 /project_root
 │
-├─ Kinect_Recorder.py      # Kinect raw data recording
-├─ Kinect_Anim_plotter.py  # 3D visualization
-├─ BVH_Writer.py           # BVH conversion
-├─ requirements.txt        # Python dependencies
+├─ Kinect_Recorder.py          # Kinect raw data recording
+├─ Kinect_Anim_plotter.py      # 3D visualization
+├─ BVH_Writer.py               # BVH conversion
+├─ motion_20250617_103134.bvh  # Sample BVH File
+├─ noHead_Capture.txt          # RAW Kinect Data
+├─ withHead_Capture.txt        # RAW Kinect Data
+├─ requirements.txt            # Python dependencies
 └─ README.md
 ```
 
@@ -142,6 +145,7 @@ python BVH_Writer.py
   * Is the system path set correctly?
 
 ```
+
 
 
 
